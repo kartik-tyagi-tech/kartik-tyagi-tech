@@ -3,6 +3,9 @@
 Full Stack Developer | Machine Learning Enthusiast  
 Building scalable backend systems and intelligent applications.
 
+Focused on writing clean, maintainable code and designing scalable software architectures.
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -60,7 +63,7 @@ Explore pinned repositories below for full implementation details.
 
 ---
 
-## 📈 Currently Focused On
+## 📈 Currently Exploring
 
 - Strengthening DSA & Competitive Coding
 - Advanced Machine Learning concepts
