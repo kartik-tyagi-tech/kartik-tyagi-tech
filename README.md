@@ -1,6 +1,6 @@
 # Kartik Tyagi
 
-Full Stack Developer | Machine Learning Enthusiast  
+Full Stack Developer | Machine Learning | DSA & System Design  
 Building scalable backend systems and intelligent applications.
 
 Focused on writing clean, maintainable code and designing scalable software architectures.
@@ -79,4 +79,4 @@ Email: tyagikartik735@gmail.com
 
 ---
 
-> Always open to collaborating on impactful tech projects.
+> Open to backend, full-stack, and AI-driven collaboration opportunities.
