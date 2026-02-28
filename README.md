@@ -5,14 +5,15 @@ Building scalable backend systems and intelligent applications.
 
 Focused on writing clean, maintainable code and designing scalable software architectures.
 
-
 ---
 
 ## 👨‍💻 About Me
 
-I am passionate about building real-world software systems that combine strong backend architecture with intelligent machine learning models.  
+I am passionate about building real-world software systems that combine strong backend architecture with intelligent machine learning models.
 
 My interests lie in backend engineering, applied machine learning, and system design. I enjoy solving complex problems using Data Structures & Algorithms and continuously improving my understanding of scalable system architecture.
+
+I aim to design systems that are not just functional, but scalable, optimized, and production-ready.
 
 ---
 
@@ -48,16 +49,18 @@ My interests lie in backend engineering, applied machine learning, and system de
 - DBMS
 - Computer Networks
 - System Design
+- Object-Oriented Design Principles
+- Clean Architecture & Modular Code Design
 
 ---
 
 ## 🚀 Notable Work
 
-- **Smart Parking Management System**  
-  Full-stack parking automation system with advanced relational database design and PL/SQL-driven booking logic.
+### 🔹 Smart Parking Management System  
+Full-stack parking automation system with advanced relational database design, transaction-safe booking logic, and PL/SQL-driven automation.
 
-- **AI-Based Interview Communication Scoring System**  
-  NLP-based regression pipeline using Sentence-BERT embeddings and XGBoost for multi-dimensional response evaluation.
+### 🔹 AI-Based Interview Communication Scoring System  
+NLP-based regression pipeline using Sentence-BERT embeddings and XGBoost for multi-dimensional response evaluation and scoring.
 
 Explore pinned repositories below for full implementation details.
 
@@ -66,9 +69,15 @@ Explore pinned repositories below for full implementation details.
 ## 📈 Currently Exploring
 
 - Strengthening DSA & Competitive Coding
-- Advanced Machine Learning concepts
-- Backend scalability & clean architecture
-- Cloud deployment fundamentals
+- Advanced Machine Learning optimization techniques
+- Backend scalability patterns (caching, load handling, modular design)
+- Cloud deployment fundamentals (CI/CD & containerization basics)
+
+---
+
+## 🗓 Daily Build Log
+
+- **28 Feb 2026** — Improved profile structure, refined project descriptions, and enhanced clarity around backend & ML focus areas.
 
 ---
 
@@ -79,4 +88,5 @@ Email: tyagikartik735@gmail.com
 
 ---
 
-> Open to backend, full-stack, and AI-driven collaboration opportunities.
+> Open to backend, full-stack, and AI-driven collaboration opportunities.  
+> Always building. Always learning.
