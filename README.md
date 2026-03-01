@@ -88,5 +88,5 @@ Email: tyagikartik735@gmail.com
 
 ---
 
-> Open to backend, full-stack, and AI-driven collaboration opportunities.  
+> Open to backend, full-stack, and AI-driven collaborationS.  
 > Always building. Always learning.
