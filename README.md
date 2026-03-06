@@ -75,12 +75,6 @@ Explore pinned repositories below for full implementation details.
 
 ---
 
-## 🗓 Daily Build Log
-
-- **28 Feb 2026** — Improved profile structure, refined project descriptions, and enhanced clarity around backend & ML focus areas.
-
----
-
 ## 📫 Connect
 
 LinkedIn: https://linkedin.com/in/tyagikartik  
