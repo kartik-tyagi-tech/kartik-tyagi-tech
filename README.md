@@ -71,7 +71,6 @@ Explore pinned repositories below for full implementation details.
 - Strengthening DSA & Competitive Coding
 - Advanced Machine Learning optimization techniques
 - Backend scalability patterns (caching, load handling, modular design)
-- Cloud deployment fundamentals (CI/CD & containerization basics)
 
 ---
 
