@@ -56,11 +56,9 @@ I aim to design systems that are not just functional, but scalable, optimized, a
 
 ## 🚀 Notable Work
 
-### 🔹 Smart Parking Management System  
-Full-stack parking automation system with advanced relational database design, transaction-safe booking logic, and PL/SQL-driven automation.
+### 🔹 URL Shortener  
 
-### 🔹 AI-Based Interview Communication Scoring System  
-NLP-based regression pipeline using Sentence-BERT embeddings and XGBoost for multi-dimensional response evaluation and scoring.
+### 🔹 Vendor Invoice Intelligence  
 
 Explore pinned repositories below for full implementation details.
 
