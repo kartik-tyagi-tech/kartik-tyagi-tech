@@ -85,7 +85,7 @@ public class KartikTyagi {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kartik-tyagi-tech/url-shortener">🔗 URL Shortener</a></h3>
+      <h3>🔗 URL Shortener</a></h3>
       <p>REST API that turns long URLs into short, shareable links with custom aliases, expiry dates and click tracking.</p>
       <ul>
         <li>Layered architecture — Controller · Service · Repository · Entity</li>
@@ -102,7 +102,7 @@ public class KartikTyagi {
       <a href="https://github.com/kartik-tyagi-tech/url-shortener"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kartik-tyagi-tech/BankManagementSystem">🏦 Bank Management System</a></h3>
+      <h3>🏦 Bank Management System</a></h3>
       <p>Web-based banking app for account creation, deposits, withdrawals and fund transfers — with a GenAI banking assistant.</p>
       <ul>
         <li>5+ Java classes built on core OOP principles</li>
