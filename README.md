@@ -27,14 +27,12 @@ public class KartikTyagi {
     String hometown   = "Meerut, India";
     String[] focus    = {"Java", "Spring Boot", "REST APIs", "Microservices"};
     String[] learning = {"Generative AI", "AWS", "System Design"};
-    String research   = "Cyber Forensics — artifact recovery from AI coding assistants";
     String funFact    = "133-day LeetCode streak and counting 🔥";
 }
 ```
 
 - 🔭 Building **backend systems** with Java, Spring Boot and MySQL
 - 🌱 Currently diving deeper into **Microservices, Docker & Generative AI**
-- 🔬 Working on a **cyber forensics research paper** at VIT
 - 🎯 Looking for **Graduate Engineer Trainee / SDE** opportunities
 - ⚡ Strong in **OOP, Data Structures & Algorithms and DBMS**
 
@@ -127,8 +125,8 @@ public class KartikTyagi {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartik-tyagi-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-tyagi-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik-tyagi-tech&theme=tokyonight"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartik-tyagi-tech&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -154,7 +152,7 @@ public class KartikTyagi {
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-tyagi-tech&theme=tokyo-night&hide_border=true&area=true"/>
+  <img width="100%" src="https://ghchart.rshah.org/36BCF7/kartik-tyagi-tech" alt="Contribution Graph"/>
 </p>
 
 ---
