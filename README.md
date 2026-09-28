@@ -27,7 +27,6 @@ public class KartikTyagi {
     String hometown   = "Meerut, India";
     String[] focus    = {"Java", "Spring Boot", "REST APIs", "Microservices"};
     String[] learning = {"Generative AI", "AWS", "System Design"};
-    String funFact    = "133-day LeetCode streak and counting 🔥";
 }
 ```
 
